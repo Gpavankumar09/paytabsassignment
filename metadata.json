@@ -1,0 +1,5 @@
+{
+  "name": "PayTabs Global Banking POC",
+  "description": "A simplified banking system Proof of Concept demonstrating two-tier transaction processing, role-based dashboards, and secure transaction flows.",
+  "requestFramePermissions": []
+}
